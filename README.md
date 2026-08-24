@@ -66,6 +66,7 @@ Set the following configuration:
 ## 6. Install Cl@ve and DigID (identity apps for Spain and Netherlands)
 
 Cl@ve: requires DNI, DNI expiry date, and SMS confirmation
+
 DigID: requires previous device or username+password (which I do not remember?)
 
 Set the fingerprint for DigID when prompted.
@@ -73,5 +74,6 @@ Set the fingerprint for DigID when prompted.
 ## 7. Install WhatsApp and Instagram
 
 WhatsApp: requires phone number
+
 Instagram: requires password
 
