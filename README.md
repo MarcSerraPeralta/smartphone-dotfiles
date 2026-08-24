@@ -2,7 +2,7 @@
 
 Here is a list of the steps that I follow to set up my smartphone
 
-## 1. Delete unwanted apps that come preinstalled
+## 1. Remove unwanted apps that come preinstalled
 
 Delete or disable all the apps that are not in the following list:
 - Clock
@@ -21,7 +21,7 @@ Delete or disable all the apps that are not in the following list:
 - Gmail
 - Google Maps
 
-## 2. Install replacements for the removed apps
+## 2. Install replacements for removed apps
 
 - Material Files <- File Explorer
 - Scanner <- Google Lens
@@ -51,3 +51,27 @@ Set the following configuration:
 3. Set backup location: Settings > Backups > Backup location: a directory in Google Drive
 4. Enable backup: Settings > Backups > enable Automatically back up the vault
 5. Install icons: Settings > Icon packs > select the file downloaded from https://github.com/aegis-icons/aegis-icons
+
+## 5. Install apps for my server
+
+- Tailscale
+- Immich
+- Finamp
+- ConnectBot
+- Moonlight
+- Tapo
+- LocalSend
+- Element Classic
+
+## 6. Install Cl@ve and DigID (identity apps for Spain and Netherlands)
+
+Cl@ve: requires DNI, DNI expiry date, and SMS confirmation
+DigID: requires previous device or username+password (which I do not remember?)
+
+Set the fingerprint for DigID when prompted.
+
+## 7. Install WhatsApp and Instagram
+
+WhatsApp: requires phone number
+Instagram: requires password
+
