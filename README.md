@@ -62,6 +62,7 @@ Set the following configuration:
 - Tapo
 - LocalSend: does not require anything
 - Element Classic
+- CSV file viewer: does not require anything
 
 ## 6. Install Cl@ve and DigID (identity apps for Spain and Netherlands)
 
@@ -73,12 +74,40 @@ Set the fingerprint for DigID when prompted.
 
 ## 7. Install WhatsApp and Instagram
 
-WhatsApp: requires phone number
+WhatsApp: requires SIM for phone number
+
+Instagram: requires password
 
 ## 8. Install banking apps
 
 Imagin: requires username+password, and previous device
 
 ABN AMRO: requires e-identifier, username+password
-Instagram: requires password
 
+## 9. Install healthcare apps
+
+La Meva Salut: requires idCAT Mobil
+
+## 10. Install public transport apps
+
+T-mobilitat: does not require anything
+
+NS: requires username+password
+
+For NS, go to Mijn NS > click on OV-chipkaart > Notifications > enable check-in and check-out
+
+## 11. Install international travel apps
+
+Vueling: requires username+password
+
+Transavia: requires username+password
+
+been: requires Google account
+
+# 12. Install shopping apps
+
+Jumbo: requires username+password
+
+Albert Heijn: requires username+password and SMS confirmation
+
+Praxis: requires username+password
