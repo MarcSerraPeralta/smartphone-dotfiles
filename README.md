@@ -54,13 +54,13 @@ Set the following configuration:
 
 ## 5. Install apps for my server
 
-- Tailscale
-- Immich
-- Finamp
+- Tailscale: requires Google account
+- Immich: requires Tailscale, username+password
+- Finamp: requires Tailscale, username+password
 - ConnectBot
 - Moonlight
 - Tapo
-- LocalSend
+- LocalSend: does not require anything
 - Element Classic
 
 ## 6. Install Cl@ve and DigID (identity apps for Spain and Netherlands)
