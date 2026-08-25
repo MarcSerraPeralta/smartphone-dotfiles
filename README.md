@@ -16,7 +16,6 @@ Delete or disable all the apps that are not in the following list:
 - Calculator
 - FM Radio
 - Recorder
-- Scanner
 - Google Drive
 - Gmail
 - Google Maps
@@ -66,63 +65,85 @@ Set the following configuration:
 
 ## 6. Install Cl@ve and DigID (identity apps for Spain and Netherlands)
 
-Cl@ve: requires DNI, DNI expiry date, and SMS confirmation
-
-DigID: requires previous device or username+password (which I do not remember?)
+- Cl@ve: requires DNI, DNI expiry date, and SMS confirmation
+- DigID: requires previous device or username+password (which I do not remember?)
 
 Set the fingerprint for DigID when prompted.
 
 ## 7. Install social media apps
 
-WhatsApp: requires SIM for phone number
+- WhatsApp: requires SIM for phone number
+- Instagram: requires password
+- Bereal: ...
+- LinkedIn: requires Google account
+- Discord: requires username+password and mail confirmation
 
-Instagram: requires password
-
-Bereal: ...
-
-LinkedIn: requires Google account
+For Instagram, set a maximum app time of 15 minutes in Settings > Digital Wellbeing and parental controls
 
 ## 8. Install banking apps
 
-Imagin: requires username+password, and previous device
-
-ABN AMRO: requires e-identifier, username+password
-
-Tikkie: requires SMS confirmation, Dutch IBAN number, full name
-
-Wallet: ...
+- Imagin: requires username+password, and previous device
+- ABN AMRO: requires e-identifier, username+password
+- Tikkie: requires SMS confirmation, Dutch IBAN number, full name
+- Wallet: ...
 
 ## 9. Install healthcare apps
 
-La Meva Salut: requires idCAT Mobil
+- La Meva Salut: requires idCAT Mobil
 
 ## 10. Install public transport apps
 
-T-mobilitat: does not require anything
-
-NS: requires username+password
+- T-mobilitat: does not require anything
+- NS: requires username+password
 
 For NS, go to Mijn NS > click on OV-chipkaart > Notifications > enable check-in and check-out
 
 ## 11. Install international travel apps
 
-Vueling: requires username+password
-
-Transavia: requires username+password
-
-been: requires Google account
+- Vueling: requires username+password
+- Transavia: requires username+password
+- been: requires Google account
 
 ## 12. Install shopping apps
 
-Jumbo: requires username+password
-
-Albert Heijn: requires username+password and SMS confirmation
-
-Praxis: requires username+password
+- Jumbo: requires username+password
+- Albert Heijn: requires username+password and SMS confirmation
+- Praxis: requires username+password
 
 ## 13. Install fitness apps
 
-Wikiloc: requires username+password
+- Wikiloc: requires username+password
+- Strava: requires a Google account
 
-Strava: requires a Google account
+## 14. Install weather apps
 
+- Buienalarm: does not require anything
+- Buienradar: does not require anything
+
+## 15. Install mobile operator apps
+
+- simyo: requires username+password
+- MyLebara: requires username+password
+
+## 16. Install work apps
+
+- Outlook: requires username+password and 2FA verification
+- eduVPN: requires username+password and 2FA verification
+- GitHub: ...
+
+## 17. Install house apps
+
+- DUWO App: requires username+password
+- tricount: requires name+email and mail confirmation
+
+For DUWO App, enable biometric verification. 
+
+## 18. Set up phone configuration
+
+In Settings:
+
+1. Notifications & Control centre > Control centre style > select old style
+2. Notifications & Control centre > Notifications > disable notifications from unwanted apps
+3. Notifications & Control centre > Lock screen > Format > Show notifications but hide content
+4. Sound & vibration > Additional settings > disable play sound when locking device
+5. Privacy > disable Show passwords (display characters briefly as you type)
