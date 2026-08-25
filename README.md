@@ -72,17 +72,25 @@ DigID: requires previous device or username+password (which I do not remember?)
 
 Set the fingerprint for DigID when prompted.
 
-## 7. Install WhatsApp and Instagram
+## 7. Install social media apps
 
 WhatsApp: requires SIM for phone number
 
 Instagram: requires password
+
+Bereal: ...
+
+LinkedIn: requires Google account
 
 ## 8. Install banking apps
 
 Imagin: requires username+password, and previous device
 
 ABN AMRO: requires e-identifier, username+password
+
+Tikkie: requires SMS confirmation, Dutch IBAN number, full name
+
+Wallet: ...
 
 ## 9. Install healthcare apps
 
@@ -104,10 +112,17 @@ Transavia: requires username+password
 
 been: requires Google account
 
-# 12. Install shopping apps
+## 12. Install shopping apps
 
 Jumbo: requires username+password
 
 Albert Heijn: requires username+password and SMS confirmation
 
 Praxis: requires username+password
+
+## 13. Install fitness apps
+
+Wikiloc: requires username+password
+
+Strava: requires a Google account
+
