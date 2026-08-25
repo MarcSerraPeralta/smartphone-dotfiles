@@ -75,5 +75,10 @@ Set the fingerprint for DigID when prompted.
 
 WhatsApp: requires phone number
 
+## 8. Install banking apps
+
+Imagin: requires username+password, and previous device
+
+ABN AMRO: requires e-identifier, username+password
 Instagram: requires password
 
