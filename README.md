@@ -23,7 +23,7 @@ Delete or disable all the apps that are not in the following list:
 ## 2. Install replacements for removed apps
 
 - Material Files <- File Explorer
-- Scanner <- Google Lens
+- Google Lens <- Scanner
 - Finamp <- Music (*I do not download music directly to my phone*)
 - Firefox <- Google Chrome
 - Firefox youtube.com (+ ad blocker) <- Youtube
