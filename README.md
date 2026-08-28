@@ -20,6 +20,8 @@ Delete or disable all the apps that are not in the following list:
 - Gmail
 - Google Maps
 
+To fully remove the apps, go to Settings > Apps > "Disable" or "Uninstall" (sometimes this is not the case when deleting them from the app icons in the home screen). 
+
 ## 2. Install replacements for removed apps
 
 - Material Files <- File Explorer
@@ -42,6 +44,7 @@ Set the following configuration:
 - Homepage > disable everything on the homepage
 - Customize > Address bar location: bottom
 - AI controls > disable page summaries and voice search
+- In a new tab, click on the three dots > Change Wallpaper > select the black one
 
 ## 4. Setting up Aegis (2FA)
 
@@ -50,17 +53,18 @@ Set the following configuration:
 3. Set backup location: Settings > Backups > Backup location: a directory in Google Drive
 4. Enable backup: Settings > Backups > enable Automatically back up the vault
 5. Install icons: Settings > Icon packs > select the file downloaded from https://github.com/aegis-icons/aegis-icons
+6. Enable fingerprint: Settings > Security > enable Biometric unlock
 
 ## 5. Install apps for my server
 
 - Tailscale: requires Google account
 - Immich: requires Tailscale, username+password
 - Finamp: requires Tailscale, username+password
-- ConnectBot
-- Moonlight
-- Tapo
+- ConnectBot: does not require anything
+- Moonlight: ...
+- Tapo: ...
 - LocalSend: does not require anything
-- Element Classic
+- Element Classic: ...
 - CSV file viewer: does not require anything
 
 ## 6. Install Cl@ve and DigID (identity apps for Spain and Netherlands)
@@ -74,18 +78,20 @@ Set the fingerprint for DigID when prompted.
 
 - WhatsApp: requires SIM for phone number
 - Instagram: requires password
-- Bereal: ...
+- Bereal: requires SMS confirmation
 - LinkedIn: requires Google account
 - Discord: requires username+password and mail confirmation
 
 For Instagram, set a maximum app time of 15 minutes in Settings > Digital Wellbeing and parental controls
+
+For LinkedIn, disable a lot of the notifications in Settings > Notifications and disable all the ad information in Settings > Advertising data.
 
 ## 8. Install banking apps
 
 - Imagin: requires username+password, and previous device
 - ABN AMRO: requires e-identifier, username+password
 - Tikkie: requires SMS confirmation, Dutch IBAN number, full name
-- Wallet: ...
+- Wallet: requires Google account (and adding the card information)
 
 ## 9. Install healthcare apps
 
@@ -109,6 +115,7 @@ For NS, go to Mijn NS > click on OV-chipkaart > Notifications > enable check-in 
 - Jumbo: requires username+password
 - Albert Heijn: requires username+password and SMS confirmation
 - Praxis: requires username+password
+- Marktplaats: requires Google account
 
 ## 13. Install fitness apps
 
@@ -129,7 +136,7 @@ For NS, go to Mijn NS > click on OV-chipkaart > Notifications > enable check-in 
 
 - Outlook: requires username+password and 2FA verification
 - eduVPN: requires username+password and 2FA verification
-- GitHub: ...
+- GitHub: requires username+password and 2FA verification
 
 ## 17. Install house apps
 
@@ -137,6 +144,8 @@ For NS, go to Mijn NS > click on OV-chipkaart > Notifications > enable check-in 
 - tricount: requires name+email and mail confirmation
 
 For DUWO App, enable biometric verification. 
+
+For tricount, set the correct notification settings in Profile > Preferences > Notifications
 
 ## 18. Set up phone configuration
 
