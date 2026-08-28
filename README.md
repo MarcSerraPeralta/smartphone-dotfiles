@@ -5,7 +5,6 @@ Here is a list of the steps that I follow to set up my smartphone
 ## 1. Remove unwanted apps that come preinstalled
 
 Delete or disable all the apps that are not in the following list:
-- Clock
 - Gallery
 - Phone
 - Messages
@@ -30,6 +29,9 @@ To fully remove the apps, go to Settings > Apps > "Disable" or "Uninstall" (some
 - Firefox <- Google Chrome
 - Firefox youtube.com (+ ad blocker) <- Youtube
 - Google Keep <- Notes
+- Clock (https://github.com/BlackyHawky/Clock) <- default Clock
+
+For Clock, load the saved configuration from my Drive: Settings > Backup & Restore > Restore
 
 ## 3. Setting up Firefox
 
@@ -156,3 +158,5 @@ In Settings:
 3. Notifications & Control centre > Lock screen > Format > Show notifications but hide content
 4. Sound & vibration > Additional settings > disable play sound when locking device
 5. Privacy > disable Show passwords (display characters briefly as you type)
+
+Set up the wallpaper using the images from Papra. 
