@@ -149,7 +149,11 @@ For DUWO App, enable biometric verification.
 
 For tricount, set the correct notification settings in Profile > Preferences > Notifications
 
-## 18. Set up phone configuration
+## 18. Install games
+
+- Andoku 3 (sudoku): does not require anything
+
+## 19. Set up phone configuration
 
 In Settings:
 
